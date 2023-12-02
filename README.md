@@ -6,7 +6,7 @@ This repo contains the code for conference paper titled **Flower Species Recogni
 
 ### Summary of the project ###
 
-* Pretrained state-of-the-art neural networks are used on *University of Oxford's* **FLOWERS17** and **FLOWERS102** dataset.
+* Pretrained state-of-the-art neural networks are used on kaggle dataset.
 * Models used     - **Xception, Inception-v3, OverFeat, ResNet50, VGG16, VGG19**.
 * Weights used    - **ImageNet**
 * Classifier used - **Logistic Regression**
